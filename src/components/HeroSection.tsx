@@ -127,7 +127,7 @@ const HeroSection = () => {
   );
 };
 
-export default HeroSection;
+export default HeroSection; 
 
 // import heroImage from "../assets/hero.png";
 
