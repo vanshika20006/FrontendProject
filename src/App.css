@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+.grid-background {
+  background-color: #f8fbff; /* Light bluish-white base */
+  background-image: 
+    linear-gradient(to right, rgba(51, 140, 240, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(51, 140, 240, 0.05) 1px, transparent 1px);
+  background-size: 40px 40px; /* Adjust size of grid squares */
+}
